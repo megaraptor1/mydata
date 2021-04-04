@@ -1,0 +1,1113 @@
+#NEXUS
+[R-package treeio, Sun Apr 04 16:08:02 2021]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 550;
+	TAXLABELS
+		Graphiurus_murinus
+		Eliomys_melanurus
+		Muscardinus_avellanarius
+		Glis_glis
+		Aplodontia_rufa
+		Ratufa_affinis
+		Ratufa_bicolor
+		Ratufa_indica
+		Funambulus_pennantii
+		Lariscus_insignis
+		Rhinosciurus_laticaudatus
+		Tamiops_macclellandii
+		Dremomys_rufigenis
+		Callosciurus_caniceps
+		Callosciurus_nigrovittatus
+		Callosciurus_prevostii
+		Callosciurus_notatus
+		Spermophilopsis_leptodactylus
+		Xerus_erythropus
+		Xerus_rutilus
+		Xerus_inauris
+		Atlantoxerus_getulus
+		Myosciurus_pumilio
+		Heliosciurus_ruwenzorii
+		Heliosciurus_rufobrachium
+		Heliosciurus_punctatus
+		Heliosciurus_gambianus
+		Funisciurus_carruthersi
+		Funisciurus_isabella
+		Paraxerus_cepapi
+		Funisciurus_pyrropus
+		Paraxerus_poensis
+		Funisciurus_lemniscatus
+		Epixerus_ebii
+		Funisciurus_anerythrus
+		Protoxerus_stangeri
+		Protoxerus_aubinnii
+		Paraxerus_boehmi
+		Funisciurus_substriatus
+		Tamias_sibiricus
+		Tamias_striatus
+		Tamias_speciosus
+		Tamias_minimus
+		Tamias_quadrimaculatus
+		Tamias_quadrivittatus
+		Tamias_palmeri
+		Tamias_dorsalis
+		Tamias_cinereicollis
+		Tamias_townsendii
+		Tamias_amoenus
+		Tamias_panamintinus
+		Spermophilus_pygmaeus
+		Spermophilus_suslicus
+		Spermophilus_fulvus
+		Spermophilus_major
+		Spermophilus_erythrogenys
+		Spermophilus_relictus
+		Spermophilus_alashanicus
+		Spermophilus_dauricus
+		Spermophilus_xanthoprymnus
+		Spermophilus_citellus
+		Urocitellus_undulatus
+		Urocitellus_parryii
+		Urocitellus_richardsonii
+		Urocitellus_elegans
+		Urocitellus_columbianus
+		Urocitellus_washingtoni
+		Urocitellus_townsendii
+		Urocitellus_mollis
+		Urocitellus_canus
+		Urocitellus_brunneus
+		Urocitellus_beldingi
+		Urocitellus_armatus
+		Ictidomys_tridecemlineatus
+		Ictidomys_mexicanus
+		Poliocitellus_franklinii
+		Xerospermophilus_spilosoma
+		Xerospermophilus_perotensis
+		Xerospermophilus_tereticaudus
+		Xerospermophilus_mohavensis
+		Cynomys_mexicanus
+		Cynomys_ludovicianus
+		Cynomys_parvidens
+		Cynomys_leucurus
+		Cynomys_gunnisoni
+		Marmota_monax
+		Marmota_menzbieri
+		Marmota_caudata
+		Marmota_flaviventris
+		Marmota_olympus
+		Marmota_vancouverensis
+		Marmota_caligata
+		Marmota_marmota
+		Marmota_broweri
+		Marmota_himalayana
+		Marmota_sibirica
+		Marmota_camtschatica
+		Marmota_bobak
+		Marmota_baibacina
+		Otospermophilus_variegatus
+		Otospermophilus_beecheyi
+		Otospermophilus_atricapillus
+		Callospermophilus_saturatus
+		Callospermophilus_madrensis
+		Callospermophilus_lateralis
+		Notocitellus_annulatus
+		Notocitellus_adocetus
+		Ammospermophilus_harrisii
+		Ammospermophilus_leucurus
+		Ammospermophilus_nelsoni
+		Ammospermophilus_interpres
+		Sciurus_anomalus
+		Sciurus_granatensis
+		Sciurus_aureogaster
+		Sciurus_aberti
+		Sciurus_carolinensis
+		Sciurus_niger
+		Sciurus_vulgaris
+		Tamiasciurus_hudsonicus
+		Tamiasciurus_douglasii
+		Glaucomys_volans
+		Glaucomys_sabrinus
+		Petinomys_genibarbis
+		Petinomys_vordermanni
+		Petinomys_setosus
+		Hylopetes_spadiceus
+		Iomys_horsfieldii
+		Petaurista_elegans
+		Petaurista_petaurista
+		Pteromys_volans
+		Pteromyscus_pulverulentus
+		Aeromys_thomasi
+		Aeromys_tephromelas
+		Laonastes_aenigmamus
+		Felovia_vae
+		Pectinator_spekei
+		Massoutiera_mzabi
+		Trichys_fasciculata
+		Atherurus_macrourus
+		Hystrix_brachyura
+		Hystrix_indica
+		Hystrix_sumatrae
+		Hystrix_africaeaustralis
+		Hystrix_cristata
+		Atherurus_africanus
+		Thryonomys_swinderianus
+		Thryonomys_gregorianus
+		Petromus_typicus
+		Heterocephalus_glaber
+		Heliophobius_argenteocinereus
+		Fukomys_darlingi
+		Fukomys_anselli
+		Fukomys_damarensis
+		Fukomys_mechowi
+		Cryptomys_hottentotus
+		Georychus_capensis
+		Bathyergus_suillus
+		Bathyergus_janetta
+		Cuniculus_paca
+		Myoprocta_pratti
+		Myoprocta_acouchy
+		Dasyprocta_prymnolopha
+		Dasyprocta_mexicana
+		Dasyprocta_punctata
+		Dasyprocta_leporina
+		Dasyprocta_fuliginosa
+		Dasyprocta_azarae
+		Kerodon_rupestris
+		Hydrochoerus_isthmius
+		Hydrochoerus_hydrochaeris
+		Dolichotis_salinicola
+		Dolichotis_patagonum
+		Galea_musteloides
+		Galea_spixii
+		Microcavia_niata
+		Microcavia_australis
+		Cavia_porcellus
+		Cavia_tschudii
+		Cavia_aperea
+		Cavia_fulgida
+		Erethizon_dorsatum
+		Coendou_spinosus
+		Coendou_vestitus
+		Coendou_prehensilis
+		Coendou_quichua
+		Chaetomys_subspinosus
+		Dinomys_branickii
+		Lagostomus_maximus
+		Lagidium_viscacia
+		Lagidium_peruanum
+		Chinchilla_lanigera
+		Chinchilla_chinchilla
+		Trinomys_iheringi
+		Trinomys_dimidiatus
+		Trinomys_albispinus
+		Trinomys_paratus
+		Trinomys_eliasi
+		Thrichomys_inermis
+		Trinomys_setosus
+		Clyomys_laticeps
+		Euryzygomatomys_spinosus
+		Dactylomys_dactylinus
+		Kannabateomys_amblyonyx
+		Toromys_grandis
+		Makalata_didelphoides
+		Makalata_macrura
+		Phyllomys_dasythrix
+		Echimys_chrysurus
+		Lonchothrix_emiliae
+		Mesomys_hispidus
+		Myocastor_coypus
+		Isothrix_bistriata
+		Hoplomys_gymnurus
+		Proechimys_guyannensis
+		Proechimys_cuvieri
+		Proechimys_brevicauda
+		Proechimys_longicaudatus
+		Proechimys_semispinosus
+		Proechimys_goeldii
+		Callistomys_pictus
+		Thrichomys_apereoides
+		Carterodon_sulcidens
+		Capromys_pilorides
+		Mysateles_prehensilis
+		Mesocapromys_auritus
+		Mesocapromys_melanurus
+		Geocapromys_thoracatus
+		Geocapromys_brownii
+		Geocapromys_ingrahami
+		Plagiodontia_aedium
+		Ctenomys_tuconax
+		Ctenomys_fulvus
+		Ctenomys_opimus
+		Ctenomys_tucumanus
+		Ctenomys_latro
+		Ctenomys_argentinus
+		Ctenomys_occultus
+		Ctenomys_haigi
+		Ctenomys_sociabilis
+		Ctenomys_maulinus
+		Ctenomys_magellanicus
+		Ctenomys_talarum
+		Ctenomys_pundti
+		Ctenomys_leucodon
+		Ctenomys_rionegrensis
+		Ctenomys_azarae
+		Ctenomys_bonettoi
+		Ctenomys_flamarioni
+		Ctenomys_australis
+		Ctenomys_porteousi
+		Ctenomys_mendocinus
+		Ctenomys_emilianus
+		Ctenomys_minutus
+		Ctenomys_lami
+		Ctenomys_torquatus
+		Ctenomys_dorbignyi
+		Ctenomys_perrensi
+		Ctenomys_roigi
+		Ctenomys_boliviensis
+		Tympanoctomys_barrerae
+		Octomys_mimax
+		Octodontomys_gliroides
+		Octodon_lunatus
+		Octodon_degus
+		Spalacopus_cyanus
+		Aconaemys_porteri
+		Aconaemys_sagei
+		Abrocoma_bennettii
+		Pedetes_capensis
+		Anomalurus_derbianus
+		Anomalurus_beecrofti
+		Anomalurus_pelii
+		Idiurus_zenkeri
+		Idiurus_macrotis
+		Dipus_sagitta
+		Jaculus_orientalis
+		Jaculus_jaculus
+		Allactaga_elater
+		Allactaga_sibirica
+		Napaeozapus_insignis
+		Zapus_trinotatus
+		Zapus_princeps
+		Zapus_hudsonius
+		Spalax_ehrenbergi
+		Spalax_microphthalmus
+		Eospalax_fontanierii
+		Tachyoryctes_splendens
+		Dicrostonyx_groenlandicus
+		Dicrostonyx_richardsoni
+		Dicrostonyx_torquatus
+		Phenacomys_intermedius
+		Arborimus_longicaudus
+		Arborimus_albipes
+		Ondatra_zibethicus
+		Neofiber_alleni
+		Synaptomys_cooperi
+		Myopus_schisticolor
+		Lemmus_trimucronatus
+		Lemmus_lemmus
+		Lemmus_sibiricus
+		Microtus_mexicanus
+		Microtus_subterraneus
+		Microtus_arvalis
+		Microtus_guentheri
+		Microtus_agrestis
+		Microtus_pinetorum
+		Microtus_xanthognathus
+		Microtus_ochrogaster
+		Microtus_californicus
+		Microtus_oregoni
+		Microtus_longicaudus
+		Microtus_pennsylvanicus
+		Microtus_montanus
+		Microtus_townsendii
+		Lasiopodomys_mandarinus
+		Microtus_fortis
+		Arvicola_amphibius
+		Lagurus_lagurus
+		Myodes_gapperi
+		Myodes_glareolus
+		Myodes_rutilus
+		Myodes_rufocanus
+		Myodes_smithii
+		Mesocricetus_brandti
+		Mesocricetus_auratus
+		Cricetus_cricetus
+		Tscherskia_triton
+		Cricetulus_barabensis
+		Neotoma_goldmani
+		Neotoma_phenax
+		Neotoma_floridana
+		Neotoma_albigula
+		Neotoma_micropus
+		Neotoma_stephensi
+		Neotoma_mexicana
+		Neotoma_cinerea
+		Neotoma_lepida
+		Neotoma_fuscipes
+		Ochrotomys_nuttalli
+		Reithrodontomys_megalotis
+		Isthmomys_pirrensis
+		Onychomys_torridus
+		Onychomys_leucogaster
+		Peromyscus_leucopus
+		Peromyscus_gossypinus
+		Peromyscus_melanotis
+		Peromyscus_polionotus
+		Peromyscus_maniculatus
+		Peromyscus_grandis
+		Peromyscus_guatemalensis
+		Peromyscus_mexicanus
+		Peromyscus_yucatanicus
+		Peromyscus_melanophrys
+		Peromyscus_megalops
+		Peromyscus_melanocarpus
+		Megadontomys_thomasi
+		Podomys_floridanus
+		Habromys_lepturus
+		Peromyscus_crinitus
+		Peromyscus_truei
+		Peromyscus_aztecus
+		Peromyscus_boylii
+		Peromyscus_eremicus
+		Peromyscus_merriami
+		Peromyscus_californicus
+		Scotinomys_xerampelinus
+		Scotinomys_teguina
+		Ototylomys_phyllotis
+		Nyctomys_sumichrasti
+		Akodon_azarae
+		Holochilus_sciureus
+		Holochilus_chacarius
+		Nectomys_squamipes
+		Oryzomys_palustris
+		Oligoryzomys_longicaudatus
+		Oligoryzomys_nigripes
+		Calomys_callosus
+		Phyllotis_darwini
+		Wiedomys_pyrrhorhinos
+		Abrothrix_olivaceus
+		Sigmodon_hispidus
+		Lophiomys_imhausi
+		Meriones_hurrianae
+		Meriones_shawi
+		Meriones_unguiculatus
+		Meriones_libycus
+		Meriones_crassus
+		Psammomys_obesus
+		Gerbillus_nanus
+		Gerbillus_gleadowi
+		Gerbillus_pyramidum
+		Gerbillus_campestris
+		Gerbillus_dasyurus
+		Gerbillurus_paeba
+		Gerbilliscus_leucogaster
+		Gerbilliscus_brantsii
+		Gerbilliscus_afra
+		Desmodillus_auricularis
+		Tatera_indica
+		Uranomys_ruddi
+		Deomys_ferrugineus
+		Lophuromys_sikapusi
+		Lophuromys_flavopunctatus
+		Acomys_cahirinus
+		Acomys_dimidiatus
+		Acomys_wilsoni
+		Acomys_spinosissimus
+		Pseudomys_delicatulus
+		Pseudomys_hermannsburgensis
+		Pseudomys_australis
+		Pseudomys_higginsi
+		Notomys_alexis
+		Notomys_cervinus
+		Notomys_mitchellii
+		Melomys_rufescens
+		Melomys_cervinipes
+		Paramelomys_rubex
+		Paramelomys_levipes
+		Conilurus_penicillatus
+		Mesembriomys_gouldii
+		Hydromys_chrysogaster
+		Nilopegamys_plumbeus
+		Abeomelomys_sevia
+		Thamnomys_venustus
+		Pogonomys_sylvestris
+		Pogonomys_macrourus
+		Chiropodomys_gliroides
+		Apodemus_flavicollis
+		Apodemus_sylvaticus
+		Apodemus_agrarius
+		Vandeleuria_oleracea
+		Malacomys_longipes
+		Malacomys_edwardsi
+		Mus_musculus
+		Mus_booduga
+		Mus_platythrix
+		Mus_triton
+		Mus_musculoides
+		Mus_minutoides
+		Praomys_tullbergi
+		Praomys_morio
+		Praomys_daltoni
+		Praomys_jacksoni
+		Colomys_goslingi
+		Mastomys_natalensis
+		Mastomys_coucha
+		Oenomys_hypoxanthus
+		Grammomys_cometes
+		Grammomys_dolichurus
+		Thallomys_paedulcus
+		Aethomys_chrysophilus
+		Aethomys_namaquensis
+		Aethomys_hindei
+		Arvicanthis_niloticus
+		Lemniscomys_rosalia
+		Lemniscomys_striatus
+		Rhabdomys_pumilio
+		Pelomys_fallax
+		Pelomys_campanae
+		Dasymys_incomtus
+		Stochomys_longicaudatus
+		Hybomys_trivirgatus
+		Hybomys_univittatus
+		Golunda_ellioti
+		Parotomys_brantsii
+		Otomys_sloggetti
+		Otomys_unisulcatus
+		Otomys_irroratus
+		Otomys_angoniensis
+		Otomys_barbouri
+		Otomys_helleri
+		Millardia_meltada
+		Cremnomys_cutchicus
+		Maxomys_whiteheadi
+		Maxomys_rajah
+		Maxomys_surifer
+		Leopoldamys_edwardsi
+		Leopoldamys_siporanus
+		Leopoldamys_sabanus
+		Niviventer_cremoriventer
+		Berylmys_bowersi
+		Rattus_nitidus
+		Rattus_norvegicus
+		Rattus_fuscipes
+		Rattus_tunneyi
+		Rattus_lutreolus
+		Rattus_sordidus
+		Rattus_niobe
+		Rattus_leucopus
+		Rattus_verecundus
+		Rattus_morotaiensis
+		Rattus_tiomanicus
+		Rattus_rattus
+		Rattus_exulans
+		Nesokia_indica
+		Rattus_colletti
+		Sundamys_muelleri
+		Micromys_minutus
+		Cricetomys_gambianus
+		Cricetomys_emini
+		Beamys_hindei
+		Malacothrix_typica
+		Dendromus_mystacalis
+		Dendromus_mesomelas
+		Saccostomus_campestris
+		Mystromys_albicaudatus
+		Macrotarsomys_ingens
+		Brachyuromys_ramirohitra
+		Brachyuromys_betsileoensis
+		Hypogeomys_antimena
+		Macrotarsomys_bastardi
+		Eliurus_minor
+		Eliurus_myoxinus
+		Microdipodops_pallidus
+		Microdipodops_megacephalus
+		Dipodomys_merriami
+		Dipodomys_ordii
+		Dipodomys_agilis
+		Dipodomys_microps
+		Dipodomys_panamintinus
+		Dipodomys_heermanni
+		Dipodomys_spectabilis
+		Dipodomys_deserti
+		Thomomys_bottae
+		Thomomys_bulbivorus
+		Thomomys_talpoides
+		Geomys_pinetis
+		Geomys_bursarius
+		Zygogeomys_trichopus
+		Orthogeomys_heterodus
+		Orthogeomys_cherriei
+		Orthogeomys_hispidus
+		Cratogeomys_fumosus
+		Liomys_salvini
+		Liomys_irroratus
+		Liomys_pictus
+		Heteromys_anomalus
+		Heteromys_desmarestianus
+		Perognathus_flavus
+		Perognathus_longimembris
+		Perognathus_parvus
+		Chaetodipus_hispidus
+		Chaetodipus_fallax
+		Chaetodipus_californicus
+		Chaetodipus_spinatus
+		Chaetodipus_penicillatus
+		Chaetodipus_baileyi
+		Chaetodipus_formosus
+		Castor_fiber
+		Castor_canadensis
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Graphiurus_murinus,
+		2	Eliomys_melanurus,
+		3	Muscardinus_avellanarius,
+		4	Glis_glis,
+		5	Aplodontia_rufa,
+		6	Ratufa_affinis,
+		7	Ratufa_bicolor,
+		8	Ratufa_indica,
+		9	Funambulus_pennantii,
+		10	Lariscus_insignis,
+		11	Rhinosciurus_laticaudatus,
+		12	Tamiops_macclellandii,
+		13	Dremomys_rufigenis,
+		14	Callosciurus_caniceps,
+		15	Callosciurus_nigrovittatus,
+		16	Callosciurus_prevostii,
+		17	Callosciurus_notatus,
+		18	Spermophilopsis_leptodactylus,
+		19	Xerus_erythropus,
+		20	Xerus_rutilus,
+		21	Xerus_inauris,
+		22	Atlantoxerus_getulus,
+		23	Myosciurus_pumilio,
+		24	Heliosciurus_ruwenzorii,
+		25	Heliosciurus_rufobrachium,
+		26	Heliosciurus_punctatus,
+		27	Heliosciurus_gambianus,
+		28	Funisciurus_carruthersi,
+		29	Funisciurus_isabella,
+		30	Paraxerus_cepapi,
+		31	Funisciurus_pyrropus,
+		32	Paraxerus_poensis,
+		33	Funisciurus_lemniscatus,
+		34	Epixerus_ebii,
+		35	Funisciurus_anerythrus,
+		36	Protoxerus_stangeri,
+		37	Protoxerus_aubinnii,
+		38	Paraxerus_boehmi,
+		39	Funisciurus_substriatus,
+		40	Tamias_sibiricus,
+		41	Tamias_striatus,
+		42	Tamias_speciosus,
+		43	Tamias_minimus,
+		44	Tamias_quadrimaculatus,
+		45	Tamias_quadrivittatus,
+		46	Tamias_palmeri,
+		47	Tamias_dorsalis,
+		48	Tamias_cinereicollis,
+		49	Tamias_townsendii,
+		50	Tamias_amoenus,
+		51	Tamias_panamintinus,
+		52	Spermophilus_pygmaeus,
+		53	Spermophilus_suslicus,
+		54	Spermophilus_fulvus,
+		55	Spermophilus_major,
+		56	Spermophilus_erythrogenys,
+		57	Spermophilus_relictus,
+		58	Spermophilus_alashanicus,
+		59	Spermophilus_dauricus,
+		60	Spermophilus_xanthoprymnus,
+		61	Spermophilus_citellus,
+		62	Urocitellus_undulatus,
+		63	Urocitellus_parryii,
+		64	Urocitellus_richardsonii,
+		65	Urocitellus_elegans,
+		66	Urocitellus_columbianus,
+		67	Urocitellus_washingtoni,
+		68	Urocitellus_townsendii,
+		69	Urocitellus_mollis,
+		70	Urocitellus_canus,
+		71	Urocitellus_brunneus,
+		72	Urocitellus_beldingi,
+		73	Urocitellus_armatus,
+		74	Ictidomys_tridecemlineatus,
+		75	Ictidomys_mexicanus,
+		76	Poliocitellus_franklinii,
+		77	Xerospermophilus_spilosoma,
+		78	Xerospermophilus_perotensis,
+		79	Xerospermophilus_tereticaudus,
+		80	Xerospermophilus_mohavensis,
+		81	Cynomys_mexicanus,
+		82	Cynomys_ludovicianus,
+		83	Cynomys_parvidens,
+		84	Cynomys_leucurus,
+		85	Cynomys_gunnisoni,
+		86	Marmota_monax,
+		87	Marmota_menzbieri,
+		88	Marmota_caudata,
+		89	Marmota_flaviventris,
+		90	Marmota_olympus,
+		91	Marmota_vancouverensis,
+		92	Marmota_caligata,
+		93	Marmota_marmota,
+		94	Marmota_broweri,
+		95	Marmota_himalayana,
+		96	Marmota_sibirica,
+		97	Marmota_camtschatica,
+		98	Marmota_bobak,
+		99	Marmota_baibacina,
+		100	Otospermophilus_variegatus,
+		101	Otospermophilus_beecheyi,
+		102	Otospermophilus_atricapillus,
+		103	Callospermophilus_saturatus,
+		104	Callospermophilus_madrensis,
+		105	Callospermophilus_lateralis,
+		106	Notocitellus_annulatus,
+		107	Notocitellus_adocetus,
+		108	Ammospermophilus_harrisii,
+		109	Ammospermophilus_leucurus,
+		110	Ammospermophilus_nelsoni,
+		111	Ammospermophilus_interpres,
+		112	Sciurus_anomalus,
+		113	Sciurus_granatensis,
+		114	Sciurus_aureogaster,
+		115	Sciurus_aberti,
+		116	Sciurus_carolinensis,
+		117	Sciurus_niger,
+		118	Sciurus_vulgaris,
+		119	Tamiasciurus_hudsonicus,
+		120	Tamiasciurus_douglasii,
+		121	Glaucomys_volans,
+		122	Glaucomys_sabrinus,
+		123	Petinomys_genibarbis,
+		124	Petinomys_vordermanni,
+		125	Petinomys_setosus,
+		126	Hylopetes_spadiceus,
+		127	Iomys_horsfieldii,
+		128	Petaurista_elegans,
+		129	Petaurista_petaurista,
+		130	Pteromys_volans,
+		131	Pteromyscus_pulverulentus,
+		132	Aeromys_thomasi,
+		133	Aeromys_tephromelas,
+		134	Laonastes_aenigmamus,
+		135	Felovia_vae,
+		136	Pectinator_spekei,
+		137	Massoutiera_mzabi,
+		138	Trichys_fasciculata,
+		139	Atherurus_macrourus,
+		140	Hystrix_brachyura,
+		141	Hystrix_indica,
+		142	Hystrix_sumatrae,
+		143	Hystrix_africaeaustralis,
+		144	Hystrix_cristata,
+		145	Atherurus_africanus,
+		146	Thryonomys_swinderianus,
+		147	Thryonomys_gregorianus,
+		148	Petromus_typicus,
+		149	Heterocephalus_glaber,
+		150	Heliophobius_argenteocinereus,
+		151	Fukomys_darlingi,
+		152	Fukomys_anselli,
+		153	Fukomys_damarensis,
+		154	Fukomys_mechowi,
+		155	Cryptomys_hottentotus,
+		156	Georychus_capensis,
+		157	Bathyergus_suillus,
+		158	Bathyergus_janetta,
+		159	Cuniculus_paca,
+		160	Myoprocta_pratti,
+		161	Myoprocta_acouchy,
+		162	Dasyprocta_prymnolopha,
+		163	Dasyprocta_mexicana,
+		164	Dasyprocta_punctata,
+		165	Dasyprocta_leporina,
+		166	Dasyprocta_fuliginosa,
+		167	Dasyprocta_azarae,
+		168	Kerodon_rupestris,
+		169	Hydrochoerus_isthmius,
+		170	Hydrochoerus_hydrochaeris,
+		171	Dolichotis_salinicola,
+		172	Dolichotis_patagonum,
+		173	Galea_musteloides,
+		174	Galea_spixii,
+		175	Microcavia_niata,
+		176	Microcavia_australis,
+		177	Cavia_porcellus,
+		178	Cavia_tschudii,
+		179	Cavia_aperea,
+		180	Cavia_fulgida,
+		181	Erethizon_dorsatum,
+		182	Coendou_spinosus,
+		183	Coendou_vestitus,
+		184	Coendou_prehensilis,
+		185	Coendou_quichua,
+		186	Chaetomys_subspinosus,
+		187	Dinomys_branickii,
+		188	Lagostomus_maximus,
+		189	Lagidium_viscacia,
+		190	Lagidium_peruanum,
+		191	Chinchilla_lanigera,
+		192	Chinchilla_chinchilla,
+		193	Trinomys_iheringi,
+		194	Trinomys_dimidiatus,
+		195	Trinomys_albispinus,
+		196	Trinomys_paratus,
+		197	Trinomys_eliasi,
+		198	Thrichomys_inermis,
+		199	Trinomys_setosus,
+		200	Clyomys_laticeps,
+		201	Euryzygomatomys_spinosus,
+		202	Dactylomys_dactylinus,
+		203	Kannabateomys_amblyonyx,
+		204	Toromys_grandis,
+		205	Makalata_didelphoides,
+		206	Makalata_macrura,
+		207	Phyllomys_dasythrix,
+		208	Echimys_chrysurus,
+		209	Lonchothrix_emiliae,
+		210	Mesomys_hispidus,
+		211	Myocastor_coypus,
+		212	Isothrix_bistriata,
+		213	Hoplomys_gymnurus,
+		214	Proechimys_guyannensis,
+		215	Proechimys_cuvieri,
+		216	Proechimys_brevicauda,
+		217	Proechimys_longicaudatus,
+		218	Proechimys_semispinosus,
+		219	Proechimys_goeldii,
+		220	Callistomys_pictus,
+		221	Thrichomys_apereoides,
+		222	Carterodon_sulcidens,
+		223	Capromys_pilorides,
+		224	Mysateles_prehensilis,
+		225	Mesocapromys_auritus,
+		226	Mesocapromys_melanurus,
+		227	Geocapromys_thoracatus,
+		228	Geocapromys_brownii,
+		229	Geocapromys_ingrahami,
+		230	Plagiodontia_aedium,
+		231	Ctenomys_tuconax,
+		232	Ctenomys_fulvus,
+		233	Ctenomys_opimus,
+		234	Ctenomys_tucumanus,
+		235	Ctenomys_latro,
+		236	Ctenomys_argentinus,
+		237	Ctenomys_occultus,
+		238	Ctenomys_haigi,
+		239	Ctenomys_sociabilis,
+		240	Ctenomys_maulinus,
+		241	Ctenomys_magellanicus,
+		242	Ctenomys_talarum,
+		243	Ctenomys_pundti,
+		244	Ctenomys_leucodon,
+		245	Ctenomys_rionegrensis,
+		246	Ctenomys_azarae,
+		247	Ctenomys_bonettoi,
+		248	Ctenomys_flamarioni,
+		249	Ctenomys_australis,
+		250	Ctenomys_porteousi,
+		251	Ctenomys_mendocinus,
+		252	Ctenomys_emilianus,
+		253	Ctenomys_minutus,
+		254	Ctenomys_lami,
+		255	Ctenomys_torquatus,
+		256	Ctenomys_dorbignyi,
+		257	Ctenomys_perrensi,
+		258	Ctenomys_roigi,
+		259	Ctenomys_boliviensis,
+		260	Tympanoctomys_barrerae,
+		261	Octomys_mimax,
+		262	Octodontomys_gliroides,
+		263	Octodon_lunatus,
+		264	Octodon_degus,
+		265	Spalacopus_cyanus,
+		266	Aconaemys_porteri,
+		267	Aconaemys_sagei,
+		268	Abrocoma_bennettii,
+		269	Pedetes_capensis,
+		270	Anomalurus_derbianus,
+		271	Anomalurus_beecrofti,
+		272	Anomalurus_pelii,
+		273	Idiurus_zenkeri,
+		274	Idiurus_macrotis,
+		275	Dipus_sagitta,
+		276	Jaculus_orientalis,
+		277	Jaculus_jaculus,
+		278	Allactaga_elater,
+		279	Allactaga_sibirica,
+		280	Napaeozapus_insignis,
+		281	Zapus_trinotatus,
+		282	Zapus_princeps,
+		283	Zapus_hudsonius,
+		284	Spalax_ehrenbergi,
+		285	Spalax_microphthalmus,
+		286	Eospalax_fontanierii,
+		287	Tachyoryctes_splendens,
+		288	Dicrostonyx_groenlandicus,
+		289	Dicrostonyx_richardsoni,
+		290	Dicrostonyx_torquatus,
+		291	Phenacomys_intermedius,
+		292	Arborimus_longicaudus,
+		293	Arborimus_albipes,
+		294	Ondatra_zibethicus,
+		295	Neofiber_alleni,
+		296	Synaptomys_cooperi,
+		297	Myopus_schisticolor,
+		298	Lemmus_trimucronatus,
+		299	Lemmus_lemmus,
+		300	Lemmus_sibiricus,
+		301	Microtus_mexicanus,
+		302	Microtus_subterraneus,
+		303	Microtus_arvalis,
+		304	Microtus_guentheri,
+		305	Microtus_agrestis,
+		306	Microtus_pinetorum,
+		307	Microtus_xanthognathus,
+		308	Microtus_ochrogaster,
+		309	Microtus_californicus,
+		310	Microtus_oregoni,
+		311	Microtus_longicaudus,
+		312	Microtus_pennsylvanicus,
+		313	Microtus_montanus,
+		314	Microtus_townsendii,
+		315	Lasiopodomys_mandarinus,
+		316	Microtus_fortis,
+		317	Arvicola_amphibius,
+		318	Lagurus_lagurus,
+		319	Myodes_gapperi,
+		320	Myodes_glareolus,
+		321	Myodes_rutilus,
+		322	Myodes_rufocanus,
+		323	Myodes_smithii,
+		324	Mesocricetus_brandti,
+		325	Mesocricetus_auratus,
+		326	Cricetus_cricetus,
+		327	Tscherskia_triton,
+		328	Cricetulus_barabensis,
+		329	Neotoma_goldmani,
+		330	Neotoma_phenax,
+		331	Neotoma_floridana,
+		332	Neotoma_albigula,
+		333	Neotoma_micropus,
+		334	Neotoma_stephensi,
+		335	Neotoma_mexicana,
+		336	Neotoma_cinerea,
+		337	Neotoma_lepida,
+		338	Neotoma_fuscipes,
+		339	Ochrotomys_nuttalli,
+		340	Reithrodontomys_megalotis,
+		341	Isthmomys_pirrensis,
+		342	Onychomys_torridus,
+		343	Onychomys_leucogaster,
+		344	Peromyscus_leucopus,
+		345	Peromyscus_gossypinus,
+		346	Peromyscus_melanotis,
+		347	Peromyscus_polionotus,
+		348	Peromyscus_maniculatus,
+		349	Peromyscus_grandis,
+		350	Peromyscus_guatemalensis,
+		351	Peromyscus_mexicanus,
+		352	Peromyscus_yucatanicus,
+		353	Peromyscus_melanophrys,
+		354	Peromyscus_megalops,
+		355	Peromyscus_melanocarpus,
+		356	Megadontomys_thomasi,
+		357	Podomys_floridanus,
+		358	Habromys_lepturus,
+		359	Peromyscus_crinitus,
+		360	Peromyscus_truei,
+		361	Peromyscus_aztecus,
+		362	Peromyscus_boylii,
+		363	Peromyscus_eremicus,
+		364	Peromyscus_merriami,
+		365	Peromyscus_californicus,
+		366	Scotinomys_xerampelinus,
+		367	Scotinomys_teguina,
+		368	Ototylomys_phyllotis,
+		369	Nyctomys_sumichrasti,
+		370	Akodon_azarae,
+		371	Holochilus_sciureus,
+		372	Holochilus_chacarius,
+		373	Nectomys_squamipes,
+		374	Oryzomys_palustris,
+		375	Oligoryzomys_longicaudatus,
+		376	Oligoryzomys_nigripes,
+		377	Calomys_callosus,
+		378	Phyllotis_darwini,
+		379	Wiedomys_pyrrhorhinos,
+		380	Abrothrix_olivaceus,
+		381	Sigmodon_hispidus,
+		382	Lophiomys_imhausi,
+		383	Meriones_hurrianae,
+		384	Meriones_shawi,
+		385	Meriones_unguiculatus,
+		386	Meriones_libycus,
+		387	Meriones_crassus,
+		388	Psammomys_obesus,
+		389	Gerbillus_nanus,
+		390	Gerbillus_gleadowi,
+		391	Gerbillus_pyramidum,
+		392	Gerbillus_campestris,
+		393	Gerbillus_dasyurus,
+		394	Gerbillurus_paeba,
+		395	Gerbilliscus_leucogaster,
+		396	Gerbilliscus_brantsii,
+		397	Gerbilliscus_afra,
+		398	Desmodillus_auricularis,
+		399	Tatera_indica,
+		400	Uranomys_ruddi,
+		401	Deomys_ferrugineus,
+		402	Lophuromys_sikapusi,
+		403	Lophuromys_flavopunctatus,
+		404	Acomys_cahirinus,
+		405	Acomys_dimidiatus,
+		406	Acomys_wilsoni,
+		407	Acomys_spinosissimus,
+		408	Pseudomys_delicatulus,
+		409	Pseudomys_hermannsburgensis,
+		410	Pseudomys_australis,
+		411	Pseudomys_higginsi,
+		412	Notomys_alexis,
+		413	Notomys_cervinus,
+		414	Notomys_mitchellii,
+		415	Melomys_rufescens,
+		416	Melomys_cervinipes,
+		417	Paramelomys_rubex,
+		418	Paramelomys_levipes,
+		419	Conilurus_penicillatus,
+		420	Mesembriomys_gouldii,
+		421	Hydromys_chrysogaster,
+		422	Nilopegamys_plumbeus,
+		423	Abeomelomys_sevia,
+		424	Thamnomys_venustus,
+		425	Pogonomys_sylvestris,
+		426	Pogonomys_macrourus,
+		427	Chiropodomys_gliroides,
+		428	Apodemus_flavicollis,
+		429	Apodemus_sylvaticus,
+		430	Apodemus_agrarius,
+		431	Vandeleuria_oleracea,
+		432	Malacomys_longipes,
+		433	Malacomys_edwardsi,
+		434	Mus_musculus,
+		435	Mus_booduga,
+		436	Mus_platythrix,
+		437	Mus_triton,
+		438	Mus_musculoides,
+		439	Mus_minutoides,
+		440	Praomys_tullbergi,
+		441	Praomys_morio,
+		442	Praomys_daltoni,
+		443	Praomys_jacksoni,
+		444	Colomys_goslingi,
+		445	Mastomys_natalensis,
+		446	Mastomys_coucha,
+		447	Oenomys_hypoxanthus,
+		448	Grammomys_cometes,
+		449	Grammomys_dolichurus,
+		450	Thallomys_paedulcus,
+		451	Aethomys_chrysophilus,
+		452	Aethomys_namaquensis,
+		453	Aethomys_hindei,
+		454	Arvicanthis_niloticus,
+		455	Lemniscomys_rosalia,
+		456	Lemniscomys_striatus,
+		457	Rhabdomys_pumilio,
+		458	Pelomys_fallax,
+		459	Pelomys_campanae,
+		460	Dasymys_incomtus,
+		461	Stochomys_longicaudatus,
+		462	Hybomys_trivirgatus,
+		463	Hybomys_univittatus,
+		464	Golunda_ellioti,
+		465	Parotomys_brantsii,
+		466	Otomys_sloggetti,
+		467	Otomys_unisulcatus,
+		468	Otomys_irroratus,
+		469	Otomys_angoniensis,
+		470	Otomys_barbouri,
+		471	Otomys_helleri,
+		472	Millardia_meltada,
+		473	Cremnomys_cutchicus,
+		474	Maxomys_whiteheadi,
+		475	Maxomys_rajah,
+		476	Maxomys_surifer,
+		477	Leopoldamys_edwardsi,
+		478	Leopoldamys_siporanus,
+		479	Leopoldamys_sabanus,
+		480	Niviventer_cremoriventer,
+		481	Berylmys_bowersi,
+		482	Rattus_nitidus,
+		483	Rattus_norvegicus,
+		484	Rattus_fuscipes,
+		485	Rattus_tunneyi,
+		486	Rattus_lutreolus,
+		487	Rattus_sordidus,
+		488	Rattus_niobe,
+		489	Rattus_leucopus,
+		490	Rattus_verecundus,
+		491	Rattus_morotaiensis,
+		492	Rattus_tiomanicus,
+		493	Rattus_rattus,
+		494	Rattus_exulans,
+		495	Nesokia_indica,
+		496	Rattus_colletti,
+		497	Sundamys_muelleri,
+		498	Micromys_minutus,
+		499	Cricetomys_gambianus,
+		500	Cricetomys_emini,
+		501	Beamys_hindei,
+		502	Malacothrix_typica,
+		503	Dendromus_mystacalis,
+		504	Dendromus_mesomelas,
+		505	Saccostomus_campestris,
+		506	Mystromys_albicaudatus,
+		507	Macrotarsomys_ingens,
+		508	Brachyuromys_ramirohitra,
+		509	Brachyuromys_betsileoensis,
+		510	Hypogeomys_antimena,
+		511	Macrotarsomys_bastardi,
+		512	Eliurus_minor,
+		513	Eliurus_myoxinus,
+		514	Microdipodops_pallidus,
+		515	Microdipodops_megacephalus,
+		516	Dipodomys_merriami,
+		517	Dipodomys_ordii,
+		518	Dipodomys_agilis,
+		519	Dipodomys_microps,
+		520	Dipodomys_panamintinus,
+		521	Dipodomys_heermanni,
+		522	Dipodomys_spectabilis,
+		523	Dipodomys_deserti,
+		524	Thomomys_bottae,
+		525	Thomomys_bulbivorus,
+		526	Thomomys_talpoides,
+		527	Geomys_pinetis,
+		528	Geomys_bursarius,
+		529	Zygogeomys_trichopus,
+		530	Orthogeomys_heterodus,
+		531	Orthogeomys_cherriei,
+		532	Orthogeomys_hispidus,
+		533	Cratogeomys_fumosus,
+		534	Liomys_salvini,
+		535	Liomys_irroratus,
+		536	Liomys_pictus,
+		537	Heteromys_anomalus,
+		538	Heteromys_desmarestianus,
+		539	Perognathus_flavus,
+		540	Perognathus_longimembris,
+		541	Perognathus_parvus,
+		542	Chaetodipus_hispidus,
+		543	Chaetodipus_fallax,
+		544	Chaetodipus_californicus,
+		545	Chaetodipus_spinatus,
+		546	Chaetodipus_penicillatus,
+		547	Chaetodipus_baileyi,
+		548	Chaetodipus_formosus,
+		549	Castor_fiber,
+		550	Castor_canadensis
+	;
+	TREE * UNTITLED = [&R] ((((4[&trait=0.825429584940396]:27.69870035,(1[&trait=0.891978467331832]:25.82553578,(2[&trait=1.10427192977764]:20.29883787,3[&trait=1.34627941838181]:20.29883705)[&trait=1.10111828817031]:5.526695826)[&trait=1.03351046369609]:1.87316692)[&trait=1.02086163533859]:19.79801271,(5[&trait=0.899739406122789]:33.03080173,((8[&trait=0.876499262941849]:5.017232898,(6[&trait=1.0761076568079]:4.150210232,7[&trait=0.926786260730393]:4.150210232)[&trait=0.979021545099451]:0.8670240364)[&trait=0.969651719673298]:24.81725982,(((9[&trait=1.37197797090997]:17.47785376,(10[&trait=1.75731678193778]:14.07340957,(11[&trait=1.42124029241313]:12.85918141,((12[&trait=2.06894022018008]:8.774109873,13[&trait=1.79788557049948]:8.774108722)[&trait=1.57720718580621]:3.744550194,(14[&trait=1.81995553016376]:7.442213216,(17[&trait=1.64367590198044]:7.014600854,(15[&trait=1.52753848024067]:1.848830826,16[&trait=1.2532044313685]:1.848830826)[&trait=1.41283129775146]:5.165769479)[&trait=1.53834020258448]:0.4276115409)[&trait=1.54230827960013]:5.076447124)[&trait=1.51946891468424]:0.3405229915)[&trait=1.51268625330406]:1.21422761)[&trait=1.49713560468586]:3.404445013)[&trait=1.41780116580593]:6.941521843,((18[&trait=1.08556864832967]:16.8177652,(19[&trait=1.01854671726747]:12.25235986,(22[&trait=1.1517643902008]:11.76406983,(20[&trait=1.17213541886667]:6.635138414,21[&trait=1.27697568032709]:6.635140333)[&trait=1.20177832956623]:5.12893142)[&trait=1.16656497412035]:0.4882897488)[&trait=1.16382688237084]:4.565405343)[&trait=1.19235978372685]:6.433701096,((23[&trait=1.57618720673628]:17.70985101,((((24[&trait=1.44800937814704]:3.607550008,25[&trait=1.32222308561281]:3.607550008)[&trait=1.38478558172787]:6.316538687,(26[&trait=1.54096952022449]:0.3060103332,27[&trait=1.13696851178397]:0.3060103057)[&trait=1.33966831636613]:9.618077018)[&trait=1.38362769647465]:2.787788733,(28[&trait=1.45053561450198]:11.67311654,(29[&trait=1.79098579930604]:1.035448838,30[&trait=1.10295699438492]:1.035448838)[&trait=1.37503434099214]:10.63766742)[&trait=1.39824495790288]:1.038762262)[&trait=1.39585824322924]:1.914611038,((31[&trait=1.41912809967772]:5.679377615,(32[&trait=1.67303340725891]:0.2590663582,33[&trait=1.43948145206275]:0.2590663582)[&trait=1.5404941736668]:5.420311778)[&trait=1.47049762003984]:4.575743687,((34[&trait=1.55043493720821]:1.408984619,35[&trait=1.33273220889866]:1.40898451)[&trait=1.44466013177849]:6.427269446,((36[&trait=1.63257991872326]:2.333884737,37[&trait=1.41687263777435]:2.333884737)[&trait=1.51801139495068]:3.514979477,(38[&trait=1.85199397817235]:1.123752163,39[&trait=1.42318886709671]:1.123752163)[&trait=1.53016971994886]:4.725110954)[&trait=1.4977853087087]:1.987389303)[&trait=1.4727284292993]:2.418867784)[&trait=1.45279484693349]:4.371367439)[&trait=1.39985888654716]:3.083362274)[&trait=1.36896307369632]:3.013623006,((40[&trait=1.41107972066536]:10.23610599,(41[&trait=1.57216811389607]:7.520416987,((42[&trait=1.59244904148398]:0.2240271325,43[&trait=1.68915322805317]:0.2240271325)[&trait=1.61541416346365]:2.938315672,(44[&trait=1.45722492530082]:2.943003703,(51[&trait=1.76246838476115]:2.853412403,((45[&trait=1.41320642331139]:1.070974632,(46[&trait=1.68479904743075]:0.571282439,(47[&trait=1.64795412593869]:0.2555035638,48[&trait=1.51701444282773]:0.2555035638)[&trait=1.58090514229603]:0.3157789574)[&trait=1.58083522473709]:0.4996920836)[&trait=1.52472972243205]:1.39789419,(49[&trait=1.54706800154964]:1.904308307,50[&trait=1.3466034797202]:1.904308335)[&trait=1.48858553297643]:0.5645602128)[&trait=1.51334021263911]:0.3845438006)[&trait=1.52706846605391]:0.08959187605)[&trait=1.52656870701113]:0.2193389089)[&trait=1.53051331415062]:4.358073717)[&trait=1.48296533682497]:2.715689274)[&trait=1.42112438480966]:6.97915769,((((52[&trait=0.748918492826185]:6.164838369,((53[&trait=0.827983795137066]:3.968953383,(59[&trait=0.876113451812696]:2.374614136,(58[&trait=1.0017239615293]:2.057819768,(57[&trait=0.811634139091513]:1.305723732,(54[&trait=0.603440897552523]:0.767421184,(55[&trait=0.682738817887642]:0.3531908207,56[&trait=0.781989319691112]:0.3531908207)[&trait=0.726950039675505]:0.4142303634)[&trait=0.714250642545915]:0.5383025476)[&trait=0.775474231173227]:0.7520959812)[&trait=0.840185433678255]:0.3167944234)[&trait=0.842574477546426]:1.594340069)[&trait=0.832079476543888]:0.685141294,(60[&trait=0.846285236688711]:3.179353423,61[&trait=0.761046505205301]:3.179353423)[&trait=0.816432680208224]:1.474742077)[&trait=0.828276441062457]:1.510743692)[&trait=0.832023600642835]:1.036774098,((62[&trait=0.517899797782034]:4.955213803,((66[&trait=0.726223333781615]:2.714938915,(63[&trait=1.06783841918554]:1.40561143,(64[&trait=0.754548546353449]:0.226140859,65[&trait=0.693540673838161]:0.226140859)[&trait=0.735965939862808]:1.179470653)[&trait=0.86032081024839]:1.309327485)[&trait=0.805064130107534]:1.169879653,(((67[&trait=0.657485371129271]:1.553932252,68[&trait=0.814898701950456]:1.553932252)[&trait=0.786559367776075]:0.3203693903,(71[&trait=1.09477038223758]:0.9843207812,(69[&trait=0.864811619645921]:0.5274956752,70[&trait=0.674686714467552]:0.5274956752)[&trait=0.808394772368045]:0.4568251061)[&trait=0.875330990337769]:0.8899811354)[&trait=0.8073275205426]:1.328168985,(72[&trait=0.876039341271071]:2.264910084,73[&trait=0.673694466166892]:2.264910084)[&trait=0.784208012271756]:0.9375605442)[&trait=0.791941524414281]:0.6823476658)[&trait=0.789665335799011]:1.070394687)[&trait=0.772005390486084]:2.115908537,((74[&trait=0.977270329444847]:1.841593438,75[&trait=0.956718119190558]:1.841593712)[&trait=0.947136944534178]:4.05235374,(76[&trait=0.755924369913713]:4.908955816,(((77[&trait=1.1174236791866]:1.732088695,78[&trait=1.26366190392887]:1.732088695)[&trait=1.08140598926099]:0.9120521691,(79[&trait=0.789422292007728]:0.6941541034,80[&trait=0.856008768980707]:0.6941541034)[&trait=0.844436459931012]:1.949986761)[&trait=0.966471393185476]:1.752464087,((81[&trait=0.573597292538069]:0.6093067621,82[&trait=0.657531288763965]:0.6093067621)[&trait=0.635288436500236]:1.496227792,(83[&trait=0.874863006284124]:0.7714073817,(84[&trait=0.588818400561364]:0.4963841426,85[&trait=0.74264693640861]:0.4963841426)[&trait=0.704199337005398]:0.2750232391)[&trait=0.746824501131135]:1.334127172)[&trait=0.732158574922296]:2.291070123)[&trait=0.855303613225723]:0.5123514139)[&trait=0.850341429579034]:0.9849902651)[&trait=0.859746625410023]:1.177175163)[&trait=0.845600738772278]:0.1304913333)[&trait=0.848571387919067]:0.8773311263,((86[&trait=0.678516593773104]:4.169395522,((87[&trait=0.516490193799262]:2.655113051,88[&trait=0.500809923332233]:2.655113051)[&trait=0.548292086390196]:1.357935245,(((89[&trait=0.51361188215495]:2.889179069,(90[&trait=0.627937683262309]:1.967835276,(91[&trait=0.479090011275701]:0.6834889685,92[&trait=0.381383263224415]:0.6834889685)[&trait=0.48555936543015]:1.284346307)[&trait=0.546436604518724]:0.9213429705)[&trait=0.55194879637233]:0.6712452554,(93[&trait=0.541292433118381]:3.332071948,94[&trait=0.576497798159129]:3.332071948)[&trait=0.564151144701722]:0.2283526778)[&trait=0.564871554302627]:0.2795284101,((95[&trait=0.420311514158333]:3.096902735,(96[&trait=0.349884280917113]:2.737771822,97[&trait=0.532982008844733]:2.737771822)[&trait=0.522248874935066]:0.3591298165)[&trait=0.529054805984086]:0.4485991184,(98[&trait=0.394009005962262]:2.522626261,99[&trait=0.403776987071804]:2.522626261)[&trait=0.508214134181299]:1.022874495)[&trait=0.547612500053377]:0.2944514291)[&trait=0.571134871425264]:0.1730961922)[&trait=0.588841250009285]:0.1563486516)[&trait=0.609503197837411]:1.786380214,((100[&trait=1.06094159891844]:2.283122127,(101[&trait=0.759914480792211]:1.06567595,102[&trait=1.02742922275308]:1.06567595)[&trait=0.910149057648883]:1.217446177)[&trait=0.947796733383081]:2.707342384,(105[&trait=1.17954099408905]:2.553366864,(103[&trait=1.01329776412904]:1.855540469,104[&trait=1.15899903839689]:1.855540469)[&trait=1.0696794797723]:0.6978263948)[&trait=1.05729230923942]:2.437097373)[&trait=0.897349205945878]:0.9653125949)[&trait=0.816009919144515]:2.12316731)[&trait=0.882546868002061]:2.540219814,((106[&trait=1.17704294416528]:4.12813536,107[&trait=1.25993902032741]:4.12813536)[&trait=1.19726291060766]:4.006616646,(108[&trait=1.33120109295988]:1.745642041,(111[&trait=1.52111221307951]:1.567437073,(109[&trait=1.25686052903526]:0.0979170252,110[&trait=1.17219211792676]:0.0979170252)[&trait=1.2186212369543]:1.469519993)[&trait=1.34153259391823]:0.1782051872)[&trait=1.33602098011182]:6.389109965)[&trait=1.15605653641064]:2.484411675)[&trait=1.06052605242233]:6.59610164)[&trait=1.26904549613054]:3.508210344)[&trait=1.30350345886635]:2.527990631)[&trait=1.27342253429251]:1.167909857)[&trait=1.27424072904424]:1.222371626,(((118[&trait=1.43447128687118]:8.894730953,(112[&trait=1.6014653036153]:8.00699629,(117[&trait=1.3137434360349]:6.625367569,(116[&trait=1.25927255456841]:5.919058852,(115[&trait=1.095228774678]:5.834377922,(113[&trait=1.42289600125406]:4.105295407,114[&trait=1.19504986158935]:4.105295353)[&trait=1.29804348716742]:1.729082624)[&trait=1.28883688491741]:0.08468167009)[&trait=1.29119607056295]:0.7063073456)[&trait=1.31468277012145]:1.381628173)[&trait=1.36082166567651]:0.8877366375)[&trait=1.36378707080999]:2.682927883,(119[&trait=1.48825027514452]:1.546593701,120[&trait=1.37171663349552]:1.546593701)[&trait=1.42436107498012]:10.03106629)[&trait=1.35142859130097]:8.097924913,(((121[&trait=1.45616278369947]:2.759611196,122[&trait=1.15818323927669]:2.759611196)[&trait=1.30453579157287]:8.892847297,(127[&trait=1.27027727500837]:8.07078916,(126[&trait=1.23980823855793]:8.035686495,(125[&trait=1.76961541179791]:3.706059781,(123[&trait=1.43278863944483]:0.6290047196,124[&trait=1.530757217123]:0.6290048567)[&trait=1.4831080029029]:3.077056543)[&trait=1.49617027713403]:4.329626576)[&trait=1.34085098203519]:0.03510274723)[&trait=1.34003311087084]:3.58166988)[&trait=1.2875389088029]:4.36819822,((128[&trait=0.853552933331392]:7.121552127,129[&trait=0.781394635615211]:7.121552401)[&trait=0.933302132672322]:7.37503674,(130[&trait=1.67753862682586]:12.28155176,(131[&trait=0.994377536497362]:8.940663026,(132[&trait=0.859834242406584]:3.197341757,133[&trait=0.947667161136385]:3.197341757)[&trait=0.94118400627994]:5.743319898)[&trait=1.07566537172086]:3.340890656)[&trait=1.18426834280813]:2.215037926)[&trait=1.17320441428163]:1.524067023)[&trait=1.2151681439914]:3.654926543)[&trait=1.25524952354775]:5.966164523)[&trait=1.24981671290311]:4.192744387)[&trait=1.16222421557039]:3.196316421)[&trait=1.12025073989848]:14.4659031)[&trait=1.02686035911193]:9.417582342,((134[&trait=1.46457548992169]:37.15740822,(135[&trait=0.845473476989959]:9.070472732,(136[&trait=0.723978462294544]:0.6298345144,137[&trait=0.860964255562395]:0.6298345144)[&trait=0.794506286915777]:8.440638218)[&trait=0.849047886487873]:28.08692866)[&trait=1.04160785626036]:17.4508732,((138[&trait=0.96914727562226]:16.33056119,(139[&trait=0.702165971845744]:7.951809324,(145[&trait=0.959129296064556]:7.376394635,(140[&trait=0.820266246329013]:4.519744283,((141[&trait=0.648120772456574]:1.137077435,142[&trait=1.15535700956648]:1.137077435)[&trait=0.863967425047204]:2.255574435,(143[&trait=0.58004036793386]:3.127469994,144[&trait=0.487112877420799]:3.127469766)[&trait=0.687938784962606]:0.2651827415)[&trait=0.714115971889059]:1.127092914)[&trait=0.750495957555177]:2.856650352)[&trait=0.798604630965127]:0.5754144606)[&trait=0.795773015049629]:8.378751862)[&trait=0.853174079247933]:22.43932158,(((148[&trait=0.618609743512912]:18.09615767,(146[&trait=0.788549664475598]:1.494356721,147[&trait=0.547301996114144]:1.494356721)[&trait=0.66889871800103]:16.60180186)[&trait=0.690515630084608]:13.89273332,(149[&trait=0.50972587689599]:25.87611611,(150[&trait=0.601797192818811]:13.84964878,((155[&trait=0.687285319540247]:7.168053617,(154[&trait=0.615919712143433]:4.529595822,(151[&trait=0.64486193792982]:3.124344025,(152[&trait=0.801965852304233]:2.640654489,153[&trait=0.87174319508689]:2.64065449)[&trait=0.762543760967508]:0.4836886243)[&trait=0.735320759443406]:1.405252481)[&trait=0.696916363010031]:2.638458455)[&trait=0.671989452728604]:1.63440779,(156[&trait=0.692099943156644]:7.861780592,(157[&trait=0.375923351176133]:1.683409999,158[&trait=0.573309107794853]:1.683409999)[&trait=0.531543815087077]:6.178370593)[&trait=0.642187032656265]:0.9406803607)[&trait=0.653060686254809]:5.047187823)[&trait=0.652949284681314]:12.02646278)[&trait=0.697102199632621]:6.112779435)[&trait=0.763808505161675]:3.779161928,((159[&trait=1.02375536183324]:22.03336457,(((160[&trait=1.23647960953935]:2.46713838,161[&trait=1.2341070865367]:2.46713838)[&trait=1.1793165066286]:3.104844744,((162[&trait=0.827277554922969]:1.563898605,163[&trait=1.20424033820624]:1.563898377)[&trait=1.01848149644565]:3.830295934,(164[&trait=0.871704862398674]:2.59783568,(165[&trait=0.987096143646851]:2.476481221,(166[&trait=0.910290038659541]:1.272014193,167[&trait=0.857351409440515]:1.272014193)[&trait=0.902066626821244]:1.204468029)[&trait=0.936620654074213]:0.1213531837)[&trait=0.937628646031111]:2.796359178)[&trait=1.03181755265537]:0.1777900205)[&trait=1.03842501611092]:15.305374,(((168[&trait=0.909385113951704]:5.862380833,(169[&trait=0.448610609395571]:1.41640332,170[&trait=0.573081387305433]:1.41640332)[&trait=0.547816284188902]:4.445978424)[&trait=0.745315404095457]:5.77379349,(171[&trait=1.1155984958682]:6.135101605,172[&trait=0.719800944279581]:6.135101605)[&trait=0.889957932443854]:5.501074995)[&trait=0.84020825784227]:2.587616165,((173[&trait=0.727327168498165]:6.037049371,174[&trait=0.735792309269966]:6.037050737)[&trait=0.76979748575709]:7.009482637,((175[&trait=1.10510818542087]:5.369774271,176[&trait=0.815935514612621]:5.369775614)[&trait=0.936182577140744]:4.984554586,(180[&trait=0.890202563351038]:1.342038134,(179[&trait=0.915545576363301]:1.25175733,(177[&trait=0.891870350981374]:0.7641209401,178[&trait=0.994870561762761]:0.7641209401)[&trait=0.933058245901885]:0.48763639)[&trait=0.91989643126573]:0.09028082696)[&trait=0.917773455473802]:9.012292772)[&trait=0.890996130534204]:2.69220224)[&trait=0.858591457564819]:1.177257114)[&trait=0.859334542059864]:6.653566637)[&trait=0.912713902597262]:1.156006308)[&trait=0.912493268327802]:9.210373971,((186[&trait=0.816889592340059]:18.71967785,(181[&trait=0.90676090298722]:6.114418929,((182[&trait=1.34176933209239]:3.993990105,183[&trait=1.52764080609217]:3.993989878)[&trait=1.2481636657139]:0.07851640775,(184[&trait=0.987359155454031]:3.109551459,185[&trait=1.28515727465862]:3.109551232)[&trait=1.20083409551555]:0.9629551681)[&trait=1.24082936536395]:2.041912985)[&trait=1.1349007031186]:12.60525892)[&trait=0.951300109684993]:11.15325444,((187[&trait=0.821396171627145]:17.68654595,(188[&trait=0.441751781748319]:13.33147066,((189[&trait=0.763712738264161]:2.518314512,190[&trait=1.02293184939845]:2.518313374)[&trait=0.928161230743887]:4.85827413,(191[&trait=1.47987292333362]:2.405119953,192[&trait=1.38865427360747]:2.405119953)[&trait=1.36186851224842]:4.971468233)[&trait=1.06258209126997]:5.954882469)[&trait=0.868855636701222]:4.355075295)[&trait=0.860858441890439]:11.27015494,(268[&trait=0.813221581010629]:19.45611023,((((((195[&trait=0.856144700684211]:9.819628277,(193[&trait=1.01677477458379]:3.598833492,194[&trait=0.829250197823531]:3.598833492)[&trait=0.908975066999967]:6.220794786)[&trait=0.860446062040256]:2.221038214,((196[&trait=0.863935653009226]:1.804644228,197[&trait=1.03560399877224]:1.804644228)[&trait=0.940230228367086]:6.360327138,(198[&trait=0.915069639597699]:4.050354782,199[&trait=0.792630047315925]:4.050355465)[&trait=0.860162167657311]:4.114615673)[&trait=0.872987100803393]:3.875693987)[&trait=0.844092431234048]:2.107420574,(200[&trait=0.98777305500365]:2.56941163,201[&trait=0.980926924265715]:2.569411629)[&trait=0.967223132945583]:11.57867589)[&trait=0.8128638077708]:0.261484771,(((((202[&trait=0.789274270701973]:7.619863641,203[&trait=0.784356810922031]:7.61986273)[&trait=0.782697047679035]:3.606151329,(204[&trait=0.67017373102761]:9.669866619,((205[&trait=1.22995180540511]:4.393555593,206[&trait=0.747694054911577]:4.39355664)[&trait=0.915148544502609]:3.903779436,(207[&trait=0.594994735505835]:6.733734288,208[&trait=0.717200752708829]:6.733735177)[&trait=0.743592379589956]:1.563600308)[&trait=0.784225594506971]:1.372532956)[&trait=0.773862244813567]:1.556146529)[&trait=0.778798838854218]:0.1613162677,(209[&trait=0.701922708467422]:6.76651641,210[&trait=1.01145858911717]:6.76651641)[&trait=0.823908999030996]:4.620814554)[&trait=0.779136204540387]:1.038713013,(211[&trait=0.456860321856173]:10.64661654,212[&trait=0.667820620196434]:10.64661813)[&trait=0.719255209824299]:1.779426528)[&trait=0.771244019568199]:0.5279533771,(221[&trait=1.02350719484803]:12.42029436,(220[&trait=0.563115829042022]:10.50451792,(213[&trait=0.851662026372438]:8.008699777,(214[&trait=0.755196008584442]:4.529062076,((215[&trait=0.679193796086664]:1.396841306,216[&trait=0.783991018376512]:1.396841192)[&trait=0.745019096564666]:0.3701067348,(217[&trait=0.799196726174124]:0.341576118,(218[&trait=0.625348056841633]:0.1124504335,219[&trait=0.89474933048195]:0.1124504335)[&trait=0.763060980237012]:0.2291254796)[&trait=0.775336461704851]:1.425372037)[&trait=0.7521341604412]:2.762113921)[&trait=0.760272148653933]:3.479637382)[&trait=0.774424121406585]:2.495818145)[&trait=0.76050452521813]:1.915776212)[&trait=0.78581896087616]:0.5337032203)[&trait=0.78265761527547]:1.455574255)[&trait=0.805503075312127]:1.375479264,(222[&trait=0.641152882769437]:15.03326576,(230[&trait=0.53129708678775]:6.000898293,((223[&trait=0.450826102067423]:2.943812907,(224[&trait=0.505823276391528]:2.554123573,(225[&trait=0.580824511272326]:0.7387600124,226[&trait=0.572167133213459]:0.7387600123)[&trait=0.568979236548472]:1.815363469)[&trait=0.532038051710035]:0.3896893559)[&trait=0.528107844368589]:2.000819287,(229[&trait=0.595785252844564]:0.8863550333,(227[&trait=0.532806996032565]:0.01832036535,228[&trait=0.431168591324081]:0.01832036535)[&trait=0.496745467170287]:0.868034595)[&trait=0.546598795685781]:4.058277866)[&trait=0.554469701524006]:1.056265849)[&trait=0.570435160604504]:9.032365875)[&trait=0.765868791491544]:0.7517860224)[&trait=0.788372026803346]:2.255915495,((231[&trait=0.615162579269701]:4.865893907,(259[&trait=0.460682988768846]:3.230703759,((232[&trait=0.728830662226507]:1.035613913,233[&trait=0.975040323577448]:1.035613685)[&trait=0.830256879219724]:2.063105271,(((234[&trait=0.610682752646313]:2.441758097,(235[&trait=0.777889065030039]:0.4764424238,(236[&trait=0.826959123178122]:0.2626560986,237[&trait=0.957165638368104]:0.2626560986)[&trait=0.870514063009745]:0.2137864162)[&trait=0.835435969226093]:1.965315492)[&trait=0.750346663812024]:0.366817727,(241[&trait=0.863861698823358]:1.900414036,(240[&trait=0.640218888052031]:1.323983681,(238[&trait=0.9282664734969]:0.6502270913,239[&trait=0.858879117009509]:0.6502271141)[&trait=0.858731297557549]:0.6737563396)[&trait=0.786526739285673]:0.5764304917)[&trait=0.788451218317276]:0.908161674)[&trait=0.755446384181921]:0.1035023012,((252[&trait=0.828690918843307]:2.367552763,((244[&trait=0.913255173756382]:1.396026455,(242[&trait=0.634421408507363]:0.6196956083,243[&trait=0.765060209723207]:0.6196956083)[&trait=0.721225262010228]:0.7763308464)[&trait=0.775055056112296]:0.7594886856,(245[&trait=0.635758484998041]:1.157309478,((246[&trait=0.847003353747533]:0.9024252655,(247[&trait=0.720822549968132]:0.7947531382,248[&trait=0.626538639457875]:0.7947528422)[&trait=0.695262043638025]:0.1076723778)[&trait=0.701109714287773]:0.08746176201,(249[&trait=0.505815909872877]:0.662257359,(250[&trait=0.65359990724193]:0.5880811482,251[&trait=0.731229202295697]:0.5880811482)[&trait=0.661266665728772]:0.07417623363)[&trait=0.653409134156515]:0.327629714)[&trait=0.69171994721186]:0.1674224276)[&trait=0.69332297136655]:0.9982056623)[&trait=0.752531193314335]:0.212037554)[&trait=0.758819811243581]:0.3323484975,((255[&trait=0.813468929086041]:1.086049085,(253[&trait=0.701258440310925]:0.7194296912,254[&trait=0.782863622830415]:0.7194296912)[&trait=0.766264367822425]:0.3666193938)[&trait=0.79093227511926]:0.160883851,(256[&trait=0.753089107190242]:0.868580911,(257[&trait=0.960635635065653]:0.3003949808,258[&trait=0.919121170372833]:0.3003949808)[&trait=0.916136749100458]:0.5681858846)[&trait=0.82632384725149]:0.378352025)[&trait=0.798418802424475]:1.452968233)[&trait=0.758868362279913]:0.2121769793)[&trait=0.753123806550772]:0.1866410127)[&trait=0.743882421685789]:0.1319848262)[&trait=0.731821587242959]:1.635189283)[&trait=0.719631398783702]:10.52662149,((260[&trait=1.28533379945186]:5.261009238,261[&trait=1.31586510595881]:5.261009762)[&trait=1.18516631889577]:1.696488382,(262[&trait=1.46993034428808]:4.934982654,((263[&trait=1.19523755610378]:2.336689055,264[&trait=0.808045327129153]:2.336689282)[&trait=1.01776241261564]:2.264495743,(265[&trait=0.948628781690498]:2.466423378,(266[&trait=0.70398799035013]:2.312174288,267[&trait=0.766648974652777]:2.31217406)[&trait=0.861124878222039]:0.1542494323)[&trait=0.87791043451672]:2.134761191)[&trait=1.0490082020549]:0.3337974006)[&trait=1.08036731855142]:2.022515718)[&trait=1.11072016208576]:8.435016119)[&trait=0.867158790029959]:2.64845279)[&trait=0.827801885792181]:1.415145008)[&trait=0.831506863992596]:9.500589514)[&trait=0.86530913477549]:0.9162298077)[&trait=0.868930828692172]:1.370806478)[&trait=0.864225670825939]:4.524314374)[&trait=0.824986428246204]:3.001829851)[&trait=0.847545944802339]:15.83839182)[&trait=0.962602979309217]:2.306009581)[&trait=0.968914909500038]:10.540134,((269[&trait=0.748675507737486]:38.03594485,((270[&trait=0.873631379018583]:3.494345425,(271[&trait=1.19014953397708]:3.087710138,272[&trait=0.590483413226177]:3.087710138)[&trait=0.897550027241625]:0.4066355117)[&trait=0.899455270709663]:14.0045532,(273[&trait=1.49300722438166]:0.7458665023,274[&trait=1.25729338392323]:0.7458665023)[&trait=1.36847420804904]:16.75303437)[&trait=1.06856834786376]:20.53703277)[&trait=0.948919465532663]:29.29051515,(((((275[&trait=0.881213360024553]:6.002116943,(276[&trait=1.47959606707316]:3.166019463,277[&trait=0.983460260262423]:3.166019463)[&trait=1.18221376732797]:2.836097254)[&trait=1.09386281077047]:8.89557187,(278[&trait=1.36476882842449]:9.811678846,279[&trait=1.2460135895126]:9.811678846)[&trait=1.22021329336884]:5.086009967)[&trait=1.13190715646663]:6.856522836,(280[&trait=0.83704337815373]:7.535591368,(283[&trait=0.927622967842855]:5.378096451,(281[&trait=0.828928278784216]:2.086124031,282[&trait=0.870465367153724]:2.086124031)[&trait=0.859504036184473]:3.291973403)[&trait=0.890456256266526]:2.157494917)[&trait=0.895831814670304]:14.21861665)[&trait=1.04218418422492]:41.80603107,((287[&trait=0.579253507944702]:36.01010645,(286[&trait=0.659936155481572]:34.10313573,(284[&trait=0.743603620928831]:14.59144078,285[&trait=0.625987970140906]:14.5914407)[&trait=0.695958813918676]:19.51169446)[&trait=0.725813221136938]:1.906972937)[&trait=0.732414739536962]:23.11883884,(((((((290[&trait=0.620025936963401]:2.499820384,(288[&trait=0.706785255502141]:0.9015832594,289[&trait=0.853917322179422]:0.9015833434)[&trait=0.766790213284942]:1.598237035)[&trait=0.718710778628186]:11.74446915,(291[&trait=0.745342408296702]:5.981678819,(292[&trait=0.921809815358285]:0.9835266515,293[&trait=1.26671191985128]:0.9835265241)[&trait=1.0770391201207]:4.998153314)[&trait=0.902001675990092]:8.262610973)[&trait=0.829038080616144]:0.585211141,((294[&trait=0.553037790337713]:5.897524847,295[&trait=0.751737418596646]:5.897524847)[&trait=0.704408809635886]:6.757636076,((296[&trait=1.00935051788677]:7.705832659,(297[&trait=0.741356565529866]:7.603150493,(298[&trait=0.688506898563806]:6.618143396,(299[&trait=0.662913328723233]:1.842478468,300[&trait=1.06403464020299]:1.842478468)[&trait=0.855954726190531]:4.775664673)[&trait=0.816975213722886]:0.9850065884)[&trait=0.828055967928369]:0.1026827512)[&trait=0.830381990027683]:4.677415821,(((((305[&trait=0.799790611244511]:7.080004213,((301[&trait=0.691775923660808]:4.972345315,302[&trait=0.996590795581927]:4.972344499)[&trait=0.813113050249488]:1.401298498,(303[&trait=0.783123430828207]:4.634559184,304[&trait=0.663565477202574]:4.634558929)[&trait=0.764622273660417]:1.739084169)[&trait=0.795600670808308]:0.706361624)[&trait=0.799355548606293]:0.2862058022,(((306[&trait=0.926107141138304]:5.969640615,307[&trait=0.597506029164403]:5.969641099)[&trait=0.788013036181835]:0.1321681333,(308[&trait=0.666611923249984]:4.799591827,309[&trait=0.773574941713154]:4.799591827)[&trait=0.764873926098117]:1.302217049)[&trait=0.789173460038509]:0.2434373466,((310[&trait=0.910303292743026]:5.25496956,311[&trait=0.738815759458721]:5.25496956)[&trait=0.81761711021464]:0.1411262802,(314[&trait=0.853852109635826]:4.921904144,(312[&trait=1.00057141425765]:3.27131146,313[&trait=0.747255041151439]:3.27131146)[&trait=0.850403004188369]:1.650592174)[&trait=0.826678090544842]:0.4741920533)[&trait=0.817244222296475]:0.9491494901)[&trait=0.79585338869724]:1.020965347)[&trait=0.800859374483807]:1.091647652,(315[&trait=0.905170831009491]:7.42829959,316[&trait=0.764182412719718]:7.428298825)[&trait=0.81688081174698]:1.029559096)[&trait=0.811947829396911]:2.203766256,(317[&trait=0.703878509521478]:10.0160922,318[&trait=0.815595768089594]:10.01609347)[&trait=0.816461895022961]:0.6455312122)[&trait=0.823773648923136]:0.9244538956,((319[&trait=1.05101047040708]:4.380768292,(320[&trait=1.19182920351853]:4.220082411,321[&trait=1.20136850544758]:4.220081825)[&trait=1.09195761428032]:0.1606875627)[&trait=1.08398879024868]:1.877657803,(322[&trait=0.730387733580354]:2.738632026,323[&trait=1.17262142421251]:2.738632026)[&trait=0.96648921120593]:3.519796134)[&trait=1.00500687284988]:5.327652231)[&trait=0.839205474596108]:0.7971719362)[&trait=0.827703876003264]:0.2719114236)[&trait=0.823625050986314]:2.1743395)[&trait=0.829367791927381]:16.59771223,((324[&trait=0.689136457533584]:4.016364445,325[&trait=0.508436571839164]:4.01636368)[&trait=0.616950376868952]:14.99515297,(328[&trait=0.903197479762583]:9.255698932,(326[&trait=0.566862933839736]:7.600987342,327[&trait=0.701069524971326]:7.600987342)[&trait=0.706925184514693]:1.654713118)[&trait=0.738691094563672]:9.755817206)[&trait=0.752580522314582]:12.41569549)[&trait=0.882555964945752]:1.428350169,(((338[&trait=0.87637727076815]:8.105860193,(337[&trait=0.913933356185144]:7.686787245,(336[&trait=0.79754357700175]:7.454461235,(335[&trait=0.86723682964826]:6.299289144,(334[&trait=0.857224959993583]:6.063259431,((331[&trait=0.871285499004445]:3.748704925,(329[&trait=1.21321456542375]:1.754228012,330[&trait=0.836737211980937]:1.754228012)[&trait=0.992518715191522]:1.994476914)[&trait=0.918714075409008]:1.125965065,(332[&trait=0.856164871244855]:3.389520923,333[&trait=0.815434887109759]:3.389520413)[&trait=0.865375946289929]:1.485149068)[&trait=0.891293989034033]:1.188590205)[&trait=0.883091475684578]:0.2360288211)[&trait=0.882469554686741]:1.155172957)[&trait=0.882219146732308]:0.2323251189)[&trait=0.884807777156714]:0.4190722079)[&trait=0.88788931180102]:15.33904306,(339[&trait=1.31544105411338]:22.02928512,(((340[&trait=1.24636393704777]:12.35305889,341[&trait=0.782905802653125]:12.35306105)[&trait=1.05216270752518]:3.707236119,((342[&trait=1.14914987227603]:4.933113547,343[&trait=1.2317389620761]:4.933112018)[&trait=1.1682339401683]:8.86235421,((((344[&trait=1.11909889092737]:1.507878972,345[&trait=1.02298152378859]:1.507878972)[&trait=1.06236424755435]:3.344859621,(346[&trait=0.735684957849149]:2.418228306,(347[&trait=1.15376028166137]:1.474339681,348[&trait=1.04388128136664]:1.474339579)[&trait=1.04290700112878]:0.9438886248)[&trait=0.971313755709201]:2.434510542)[&trait=1.02387327028512]:5.33262032,((356[&trait=0.885807496061371]:8.075203855,((352[&trait=1.11110204005442]:4.509135904,(351[&trait=1.13825711837106]:3.332315127,(349[&trait=1.08987173390846]:1.087006253,350[&trait=1.20063428253536]:1.087006431)[&trait=1.13621631122609]:2.245308951)[&trait=1.09888411605404]:1.176819502)[&trait=1.0654127075532]:0.8533443114,(353[&trait=0.997335285625269]:5.211691248,(354[&trait=0.889605065028169]:4.728595114,355[&trait=0.894184106849846]:4.728596821)[&trait=1.00214523103893]:0.4830966437)[&trait=1.02467272849405]:0.1507864704)[&trait=1.03249505683524]:2.712726366)[&trait=1.06857969551973]:0.5408645022,(357[&trait=1.26414733029372]:8.240141208,(358[&trait=1.03683543934556]:7.293699096,(359[&trait=1.38262313268264]:6.563701541,(360[&trait=1.26682779036138]:6.348391047,(361[&trait=1.07169602502305]:4.863175734,362[&trait=1.09077975928504]:4.863174715)[&trait=1.12498713535693]:1.485216587)[&trait=1.15170922418671]:0.215310189)[&trait=1.1516787676523]:0.7299978095)[&trait=1.12589047492092]:0.9464421114)[&trait=1.1040118795877]:0.3759276595)[&trait=1.08801606122678]:1.569289027)[&trait=1.07763597174886]:0.3684368884,(365[&trait=1.12424471033186]:6.151622503,(363[&trait=1.05532445497476]:5.456300339,364[&trait=1.06296369103156]:5.456298046)[&trait=1.07676162483488]:0.6953234378)[&trait=1.0812518097441]:4.402173043)[&trait=1.07891346661495]:3.241669408)[&trait=1.08843151935173]:2.264830563)[&trait=1.07468740674714]:3.764433507,(366[&trait=1.24521220565821]:2.816486617,367[&trait=1.26461546858963]:2.816486617)[&trait=1.24113468698162]:17.0082442)[&trait=1.07471518474147]:2.204556608)[&trait=1.05316066527155]:1.415615348)[&trait=1.0224655299582]:9.006304409,((368[&trait=1.09639979386971]:26.62298011,369[&trait=0.923491779789832]:26.62298011)[&trait=0.927915221013458]:4.234601691,(381[&trait=0.538103304387249]:22.49645221,(370[&trait=1.05852894451076]:16.52927863,((((371[&trait=0.628549956828952]:1.828845009,372[&trait=0.549826878654939]:1.828845162)[&trait=0.611557631075464]:7.440844593,(373[&trait=0.769481780065916]:7.8535206,374[&trait=0.902276628661925]:7.853522383)[&trait=0.804791971491165]:1.416167219)[&trait=0.793580514438735]:3.201647034,(375[&trait=1.05447500930566]:5.323183987,376[&trait=0.952033678716089]:5.323183986)[&trait=0.96073839434704]:7.148153159)[&trait=0.846554657463194]:3.806460299,((377[&trait=0.536729406295053]:12.30318322,378[&trait=0.912110291517801]:12.30318513)[&trait=0.802709733055185]:3.001128773,(379[&trait=0.84552606073339]:14.77498009,380[&trait=0.910478029390309]:14.77497857)[&trait=0.843384829746788]:0.5293343201)[&trait=0.840904409217842]:0.9734840498)[&trait=0.848732044470001]:0.2514837341)[&trait=0.85089804118317]:5.967171183)[&trait=0.827336478640496]:8.3611299)[&trait=0.901819962610062]:1.593622822)[&trait=0.906195916541263]:0.4043581932)[&trait=0.902086065539386]:12.05339909,((382[&trait=0.331855476082097]:43.39422615,((((383[&trait=0.795104655853972]:9.294550082,(388[&trait=0.999902221167934]:8.26930278,((384[&trait=0.670329612119976]:3.810922786,385[&trait=0.998889022822716]:3.810922786)[&trait=0.848652607955542]:3.371545035,(386[&trait=0.929474441687754]:4.413510066,387[&trait=0.682954469738837]:4.413511541)[&trait=0.836056387195235]:2.768958936)[&trait=0.873500965671416]:1.086833483)[&trait=0.896208179569651]:1.025247892)[&trait=0.904772450879123]:7.639058053,(389[&trait=1.52819206375897]:8.841072924,((390[&trait=1.1015175642211]:1.280633569,391[&trait=1.00302765532168]:1.280633274)[&trait=1.07204853700726]:5.774442543,(392[&trait=1.38154713130703]:3.202795875,393[&trait=1.39678698809873]:3.202795579)[&trait=1.34841706300955]:3.852280179)[&trait=1.25038995214466]:1.785997166)[&trait=1.260102374702]:8.09253639)[&trait=1.05871869733367]:5.868056571,(399[&trait=0.834724642418174]:19.17591673,(398[&trait=0.957695179041307]:17.0042214,(394[&trait=1.42805051807413]:13.56820281,(395[&trait=0.842170394915162]:3.811455301,(396[&trait=0.912325311919833]:1.928375768,397[&trait=1.25621014737532]:1.928375768)[&trait=1.05480917796293]:1.883079829)[&trait=0.997275988229432]:9.756748685)[&trait=1.09622772922536]:3.436017418)[&trait=1.04704445039684]:2.171693267)[&trait=1.02736999127211]:3.625749149)[&trait=1.03094755938662]:18.1022026,(400[&trait=1.01708906113745]:30.04461886,(401[&trait=1.1233167012094]:26.71173531,((402[&trait=0.97063098613883]:5.808452939,403[&trait=0.86363583109975]:5.808453529)[&trait=0.932991597863224]:19.3125312,(407[&trait=1.19553928346357]:19.48286521,(406[&trait=1.19859348736846]:9.814695471,(404[&trait=0.964491053727018]:0.02472281951,405[&trait=1.03622341809414]:0.02472281951)[&trait=1.00047375899937]:9.789973495)[&trait=1.09275756590099]:9.668169743)[&trait=1.07963733295534]:5.638119214)[&trait=1.03844539414118]:1.590751471)[&trait=1.03550951966172]:3.332889456)[&trait=1.01840245352543]:10.85924224)[&trait=0.963138807508505]:2.490344685)[&trait=0.941136680313225]:1.440936835,(((427[&trait=1.14387973337342]:21.41945538,(((((((408[&trait=1.40786393185613]:5.11741222,409[&trait=1.29115003483731]:5.117413872)[&trait=1.24866052139901]:1.774320483,(410[&trait=1.13724281667312]:4.210668434,411[&trait=1.08815618639701]:4.210668729)[&trait=1.1417431274672]:2.68106533)[&trait=1.17872910949606]:2.780153258,(412[&trait=1.17962143710993]:3.571936804,(413[&trait=1.31949852105673]:2.998218037,414[&trait=0.923404406926368]:2.998217801)[&trait=1.13238130164164]:0.573719062)[&trait=1.13656422685957]:6.099950514)[&trait=1.10750766847962]:1.315649814,(((415[&trait=1.18228432566198]:3.89470865,416[&trait=0.997861994472746]:3.894708326)[&trait=1.09119717178614]:4.795607486,(417[&trait=1.25071726737199]:3.374375479,418[&trait=1.24239908416424]:3.374375071)[&trait=1.20979560567574]:5.315940214)[&trait=1.09396520303856]:1.772135253,(419[&trait=0.821462304687108]:4.914568375,420[&trait=0.611333426688862]:4.914568699)[&trait=0.820757880294762]:5.547883427)[&trait=1.05637456644158]:0.5250855365)[&trait=1.06753662207303]:1.190820549,(421[&trait=0.758605652396228]:8.448814646,422[&trait=1.17021207284139]:8.44881258)[&trait=1.01341057611284]:3.729543861)[&trait=1.05667202186888]:2.066362964,(423[&trait=1.25222596997502]:10.95404173,424[&trait=0.887305448429395]:10.95403801)[&trait=1.06478242701341]:3.290679449)[&trait=1.06178841154183]:1.150886874,(425[&trait=1.2809384078534]:6.812695958,426[&trait=1.04586450749218]:6.81269702)[&trait=1.13504362628278]:8.582910499)[&trait=1.06359091800414]:6.023848946)[&trait=1.02287687718737]:2.692729623,((((431[&trait=1.01478491053613]:16.65567952,(430[&trait=0.695076547273242]:13.53264732,(428[&trait=1.06533668775072]:3.437550353,429[&trait=1.15280646682738]:3.437551534)[&trait=1.08580805532009]:10.09509761)[&trait=0.949171564304198]:3.123031311)[&trait=0.965540965902875]:5.012087994,(432[&trait=1.07702975763048]:6.119595453,433[&trait=1.00900027791852]:6.119595453)[&trait=1.03215873509381]:15.54817176)[&trait=0.976993210139029]:0.3709181428,(((436[&trait=0.733762617177616]:12.40521036,(434[&trait=0.908032609325882]:7.75547411,435[&trait=0.765102759495482]:7.755475586)[&trait=0.8953730331276]:4.649738182)[&trait=0.965885657817901]:0.4736422196,(437[&trait=1.28720691119843]:9.374898789,(438[&trait=1.34643378633421]:3.439262663,439[&trait=1.0875867381205]:3.439263548)[&trait=1.19139538735283]:5.935636428)[&trait=1.10298070166356]:3.503955132)[&trait=0.981931044280989]:8.380394276,((443[&trait=0.865954172062421]:9.678455397,(442[&trait=0.871125237202499]:8.405395638,(440[&trait=1.05248026868506]:3.175235195,441[&trait=0.869585496571591]:3.175235313)[&trait=0.955529441683456]:5.230159558)[&trait=0.937399205097872]:1.273057989)[&trait=0.943023848706515]:1.960676864,(444[&trait=1.20028558172469]:11.01841528,(445[&trait=0.703432944825982]:2.899187638,446[&trait=1.07205197772625]:2.899187638)[&trait=0.900870765206737]:8.119227432)[&trait=0.974402870552869]:0.6207160994)[&trait=0.96729943766755]:9.620116231)[&trait=0.976316341528233]:0.7794389309)[&trait=0.976524698048623]:1.317993706,(((464[&trait=0.607643643045079]:16.57145923,(447[&trait=0.64170841818433]:16.26769286,((((448[&trait=1.0982422378925]:11.60781642,(449[&trait=1.25197408195512]:5.250231954,450[&trait=0.559851446401084]:5.250231098)[&trait=0.906917403824805]:6.357582579)[&trait=0.909350537978942]:3.087265474,(451[&trait=0.848984571081513]:12.65134135,(452[&trait=0.846028891895538]:0.08083012483,453[&trait=0.622268498727093]:0.08083012483)[&trait=0.73449903903516]:12.57050851)[&trait=0.843468282172452]:2.043740366)[&trait=0.860293616651909]:0.9083600944,(460[&trait=0.900709089238162]:13.9934726,((457[&trait=0.626128786301712]:10.79294574,(454[&trait=0.879694396491437]:9.21487845,(455[&trait=0.542073330368491]:6.542312119,456[&trait=0.911308582307285]:6.542313594)[&trait=0.758475921115668]:2.672565446)[&trait=0.784444552098708]:1.578065221)[&trait=0.783466491395808]:0.3028119717,(458[&trait=0.763068495098269]:3.505482639,459[&trait=0.769567615241786]:3.505483347)[&trait=0.77032800487749]:7.590273475)[&trait=0.787693153963155]:2.897718132)[&trait=0.834769074586583]:1.609965972)[&trait=0.853337876443908]:0.3000676752,(461[&trait=1.20841958613625]:11.03674943,(462[&trait=0.97110126081265]:6.867272588,463[&trait=0.970520132656818]:6.867269963)[&trait=0.968307758450248]:4.169478024)[&trait=0.965268430157419]:4.866760056)[&trait=0.854500996075424]:0.364183966)[&trait=0.847623817487415]:0.3037669586)[&trait=0.845732604244155]:1.7420719,(465[&trait=0.359514318035059]:7.952751329,((466[&trait=1.02978117869119]:6.783187719,467[&trait=0.59015771671901]:6.783188899)[&trait=0.720807272627479]:0.5500249437,(468[&trait=0.356624088980966]:5.09427292,(469[&trait=0.656784660986539]:4.778397955,(470[&trait=0.728195695999322]:4.568804976,471[&trait=0.839058951889765]:4.568805035)[&trait=0.697125303153705]:0.2095921533)[&trait=0.689188810041443]:0.315876145)[&trait=0.679369805715895]:2.238940038)[&trait=0.706347573556534]:0.6195386657)[&trait=0.697525453484426]:10.36077862)[&trait=0.859915755592004]:3.827364374,(472[&trait=0.959908049134403]:14.79146429,473[&trait=1.05881227759221]:14.79146488)[&trait=0.980120971594293]:7.349430919)[&trait=0.951064834317311]:1.215784738)[&trait=0.975212241911258]:0.7555061396)[&trait=0.989465456765285]:0.5092584803,(498[&trait=1.33687602610338]:21.12335306,((476[&trait=1.00519491588299]:11.2786936,(474[&trait=1.06973005481231]:10.43731594,475[&trait=1.03615532559675]:10.43731682)[&trait=1.02226689786953]:0.8413779579)[&trait=1.01732119436357]:4.864703751,((480[&trait=1.05084508159969]:9.897797327,(479[&trait=0.802200288607722]:5.804075105,(477[&trait=0.999962032481679]:4.547752545,478[&trait=0.802200288607722]:4.547752073)[&trait=0.896161847783088]:1.256322855)[&trait=0.893443916735838]:4.093722812)[&trait=0.948943388501682]:2.967323606,(481[&trait=0.899796862957148]:9.562974265,(497[&trait=0.86994675791756]:8.766614896,((((482[&trait=1.13310737647248]:1.978567896,483[&trait=0.617342344865346]:1.978567896)[&trait=0.89102060625787]:4.11590677,((484[&trait=0.997664825911604]:3.645251887,(485[&trait=1.07117286220451]:2.499591861,(486[&trait=1.04856577978463]:2.139213977,487[&trait=1.03568723041073]:2.139213976)[&trait=1.04766490469904]:0.3603778845)[&trait=1.04953093283269]:1.145660025)[&trait=1.0455437965286]:0.3211464217,(491[&trait=0.898157212255421]:3.652324749,(488[&trait=1.28693516609741]:3.622184572,(489[&trait=1.0455282816411]:2.42277929,490[&trait=1.2751010342241]:2.422779172)[&trait=1.1140343665651]:1.1994054)[&trait=1.0682119209752]:0.03014091411)[&trait=1.06524036902836]:0.3140726743)[&trait=1.04864427363984]:2.128076594)[&trait=0.956738660473859]:0.6193581121,(494[&trait=0.758184215838493]:5.830015935,(492[&trait=1.24094589999469]:1.14134503,493[&trait=0.760132995050063]:1.14134503)[&trait=0.992530797623889]:4.688670196)[&trait=0.926731381837319]:0.8838179053)[&trait=0.939879530502377]:0.3355753677,(495[&trait=0.7489846287695]:3.289080429,496[&trait=1.02109312084659]:3.289080488)[&trait=0.900464880404364]:3.760327953)[&trait=0.935737258415449]:1.717208314)[&trait=0.930648041625789]:0.7963563893)[&trait=0.933801998753852]:3.302148438)[&trait=0.958622269786011]:3.278276421)[&trait=0.993956263176431]:4.979954176)[&trait=1.02371284513072]:3.49809009)[&trait=0.992754131589206]:20.21370602)[&trait=0.944394763954011]:0.07380401774)[&trait=0.944385072176477]:3.735195,((506[&trait=0.957899675971681]:35.39568236,((501[&trait=0.701729690623002]:16.36755267,(499[&trait=0.50696356754059]:8.588401009,500[&trait=0.515796705292589]:8.588401009)[&trait=0.587303524907586]:7.77914665)[&trait=0.724842322319923]:14.67741481,(505[&trait=0.811841412146382]:30.18225531,(502[&trait=1.42130694249283]:21.89344296,(503[&trait=1.52299254145202]:9.158725058,504[&trait=1.29896325419513]:9.158724406)[&trait=1.35561063355246]:12.7347169)[&trait=1.20164020521958]:8.28881085)[&trait=1.01825811092141]:0.8627081649)[&trait=1.00507157778827]:4.350718973)[&trait=1.02163695585246]:2.876274953,((511[&trait=1.19558114769133]:29.45231607,(507[&trait=1.36894695547311]:25.01285379,(510[&trait=0.916656586964902]:17.10644668,(508[&trait=0.854879419272849]:2.837005553,509[&trait=0.914072056005569]:2.837005553)[&trait=0.895688276884767]:14.26944062)[&trait=1.00848090983191]:7.90640711)[&trait=1.11341718440373]:4.439458771)[&trait=1.12698581404572]:2.047850785,(512[&trait=1.75848178729848]:2.717684329,513[&trait=1.4634248056274]:2.717684329)[&trait=1.53494870101487]:28.78248203)[&trait=1.12847529790104]:6.771795057)[&trait=1.03776771365883]:10.37220267)[&trait=0.957002498681374]:10.48479)[&trait=0.910778046118881]:4.43129)[&trait=0.92542943388271]:2.290332,((((514[&trait=1.48950897061145]:6.162989606,515[&trait=1.4378825503561]:6.162989606)[&trait=1.36620073834268]:6.737958315,((516[&trait=1.28941653496162]:5.558524358,(517[&trait=1.28680765976835]:5.122563541,(518[&trait=1.12616295286344]:4.203357243,(519[&trait=1.00812135436671]:3.761202551,(520[&trait=1.16901183835072]:0.7517876799,521[&trait=1.15095716435994]:0.7517876799)[&trait=1.15617748164486]:3.009416125)[&trait=1.12569838013369]:0.442154379)[&trait=1.13504224100725]:0.9192064551)[&trait=1.1564091981288]:0.4359611296)[&trait=1.15544541853746]:2.842018207,(522[&trait=0.853427146913606]:6.503114149,523[&trait=0.871370539315031]:6.503114149)[&trait=1.00023245877942]:1.897427318)[&trait=1.08066446772452]:4.500404885)[&trait=1.15301933220591]:13.40210824,(((526[&trait=0.693653010465428]:9.100706556,(524[&trait=0.594154345078846]:5.255282055,525[&trait=0.507722681680741]:5.255280957)[&trait=0.589695124599278]:3.845424031)[&trait=0.646413540666342]:2.418901958,((527[&trait=0.621038149287207]:5.771779733,528[&trait=0.556664484441411]:5.771779106)[&trait=0.614310336578163]:2.723577586,(529[&trait=0.62265906520004]:8.291466071,(533[&trait=0.609161103953385]:7.491040378,(532[&trait=0.653049698000515]:3.41051939,(530[&trait=0.631821753368921]:1.045590739,531[&trait=0.708534372634529]:1.045590723)[&trait=0.667552354855191]:2.364928181)[&trait=0.655674644571189]:4.080521301)[&trait=0.63832109195574]:0.8004247525)[&trait=0.638032835213079]:0.2038917183)[&trait=0.638337457219233]:3.024251195)[&trait=0.669535436105635]:12.13232667,((534[&trait=0.818330401435246]:12.89478478,(535[&trait=0.933354706421743]:8.230753628,(536[&trait=0.840178599280021]:6.822798916,(537[&trait=0.776961247604734]:4.401049439,538[&trait=0.82021706506149]:4.401050067)[&trait=0.82177176891505]:2.421748064)[&trait=0.847284977819987]:1.407955497)[&trait=0.863584318179631]:4.664031309)[&trait=0.878041927880667]:7.355310471,((541[&trait=1.06483966229829]:9.842633619,(539[&trait=1.15817702536257]:8.383771252,540[&trait=1.2611549524432]:8.383772037)[&trait=1.12705055942371]:1.458862367)[&trait=1.09829869389237]:6.045431561,((542[&trait=0.833875466912119]:9.248525633,((543[&trait=1.04087138776294]:7.125622512,544[&trait=1.01922801910976]:7.125622511)[&trait=1.00233608645781]:0.7720436654,(545[&trait=0.968476145911603]:5.355276225,546[&trait=1.04770863679498]:5.355275754)[&trait=1.00205916730679]:2.542389483)[&trait=0.996330682046202]:1.350859612)[&trait=0.982779168061722]:1.576503682,(547[&trait=1.0129908646056]:9.161009701,548[&trait=1.02934240686872]:9.161009701)[&trait=1.00002614914452]:1.664019614)[&trait=0.992346169428782]:5.06303665)[&trait=0.999703646978893]:4.362029444)[&trait=0.934902025540862]:3.401839777)[&trait=0.910662692654668]:2.651122543)[&trait=0.9444629529528]:24.67213161,(549[&trait=0.558306721691226]:3.492535996,550[&trait=0.573977447203485]:3.492535996)[&trait=0.57710098869337]:47.48265021)[&trait=0.875083782625553]:14.87538488)[&trait=0.92660569186817]:1.475892)[&trait=0.932475526090958]:0.12796)[&trait=0.932912603557751];
+END;
